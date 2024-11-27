@@ -1,15 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import Parent from './components/Parent';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-      <div style={{ textAlign: 'center', marginTop: '50px' }}>
-      <h1>Hello World!</h1>
-    </div>
-        
-      </header>
+    <div>
+      <Parent />
     </div>
   );
 }
