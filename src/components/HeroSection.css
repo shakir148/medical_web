@@ -1,0 +1,23 @@
+.hero-section {
+    background-color: #f8f9fa; /* Light background color */
+    padding: 60px 0;
+  }
+  
+  .hero-section h1 {
+    color: #1a1a1a; /* Dark text for heading */
+  }
+  
+  .hero-section p {
+    color: #6c757d; /* Muted text for description */
+  }
+  
+  .hero-section .btn-primary {
+    background-color: #007bff;
+    border: none;
+  }
+  
+  .hero-section img {
+    max-width: 100%;
+    border-radius: 10px;
+  }
+  
